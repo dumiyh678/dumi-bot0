@@ -130,13 +130,13 @@ Asena.addCommand({pattern: 'txtit$', fromMe: wk, desc: desc_msg}, (async (messag
         command_cmd = '🔖 *Komut:* '
         desc_cmd = '♦️*Açıklama:* _'
     } else { 
-        usage_cmd = '🐼 Example : *'
-        command_cmd = '🍀 Command : '
+        usage_cmd = '🍁 Example : *'
+        command_cmd = '🌺 Command : '
         desc_cmd = '🌈 Description : '
     }
-    const msg = command_cmd + '```.devil``` \n' + t1 + '_\n' + usage_cmd + '.textdevil BOT*\n\n' +
-        command_cmd + '```.bear``` \n' + desc_cmd + t2 + '_\n' + usage_cmd + '.textbear BOT*\n\n' +
-        command_cmd + '```.wolf``` \n' + desc_cmd + t10 + '_\n' + usage_cmd + '.textwolf Julie;BOT*\n\n' +
+    const msg = command_cmd + '```.devil``` \n' + t1 + '_\n' + usage_cmd + '.devil BOT*\n\n' +
+        command_cmd + '```.bear``` \n' + desc_cmd + t2 + '_\n' + usage_cmd + '.tbear BOT*\n\n' +
+        command_cmd + '```.wolf``` \n' + desc_cmd + t10 + '_\n' + usage_cmd + '.wolf Julie;BOT*\n\n' +
         command_cmd + '```.neon```\n' + desc_cmd + t3 + '_\n' + usage_cmd + '.neon BOT*\n\n' +
         command_cmd + '```.future``` \n' + desc_cmd + t4 + '_\n' + usage_cmd + '.future BOT*\n\n' +
         command_cmd + '```.2neon``` \n' + desc_cmd + t18 + '_\n' + usage_cmd + '.2neon BOT*\n\n' +
